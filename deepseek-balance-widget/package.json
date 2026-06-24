@@ -1,0 +1,9 @@
+{
+  "name": "deepseek-balance-widget",
+  "version": "1.0.0",
+  "description": "DeepSeek 余额查询 - 手机小组件后端服务",
+  "scripts": {
+    "deploy": "npx vercel --prod",
+    "dev": "npx vercel dev"
+  }
+}
